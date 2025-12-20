@@ -1,2 +1,19 @@
- title: Your Site Title
-   description: Your site description
+# Site settings
+title: My First GitHub Site.
+description: A modern, clean website built with GitHub Pages
+author: Joe Grant
+email: Joe.Grant109@icloud.com
+
+# Social links (optional)
+github_username: JoeTheDeveloper96
+linkedin_username: JoeGrantx
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
